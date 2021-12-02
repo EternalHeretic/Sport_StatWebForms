@@ -1,0 +1,1 @@
+﻿<%@ WebHandler Language="C#" CodeBehind="HandlerEGV.ashx.cs" Class="Sport_Stat.HandlerEGV" %>
